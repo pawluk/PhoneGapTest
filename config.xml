@@ -28,9 +28,9 @@
   <access subdomains="true" uri="file:///store/home"/>
   <access subdomains="true" uri="file:///SDCard"/>
   <icon rim:hover="false" src="resources/icon.png"/>
-  <icon rim:hover="true" src="resources/icon_hover.png"/>
+  <icon rim:hover="true" src="resources/iconhover.png"/>
   <content src="index.html"/>
-  <rim:loadingScreen backgroundColor="#000000" foregroundImage="resources/loading_foreground.png" onFirstLaunch="true">
+  <rim:loadingScreen backgroundColor="#000000" foregroundImage="resources/loadingforeground.png" onFirstLaunch="true">
     <rim:transitionEffect type="fadeOut"/>
   </rim:loadingScreen>
 </widget>
